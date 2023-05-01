@@ -8,7 +8,7 @@ Modify the network’s output classes to these output classes:
 	* others
 	* drivable surface
 
-* The performance of the segmentation network is not 100% accurate in part 2A. There are some points of failure in the network.
+* The performance of the segmentation network is not 100% accurate. There are some points of failure in the network.
 
 * Improve the images without any MATLAB toolbox functions for better segmentation.
 
@@ -41,4 +41,5 @@ Solution: Open the link to open the `camvidColorMap.m` file and change the conte
 
 * `enhance.m` image processing script to generate the files 'improve_img'
 
+* `comparison.pdf` all the image comparison
 Attention: The codes are runing under the version of MATLAB 2022. If the version of the matlab is too low, there maybe some problems to run them sucessfully.
